@@ -1,2 +1,2 @@
 # Python scripting
-Python scripts to automatization of modelling tasks.
+Python scripts for automatization of modelling tasks.
